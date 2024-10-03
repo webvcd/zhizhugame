@@ -5,7 +5,7 @@
         height:600px;
         margin:0px auto;
         border:2px solid #33ee99;
-        background: url(../images/bg2.jpg) no-repeat center;
+        background: url(../images/bg.jpg) no-repeat center;
     }
     #bar {
         position:absolute;
@@ -23,7 +23,7 @@
     height:600px;
     margin:0px auto;
     border:2px solid #33ee99;
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../images/bg.jpg) no-repeat center;
     }
 
 }
